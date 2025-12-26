@@ -6,7 +6,7 @@
 
 **NEON_OS Builder** est un outil professionnel doté d'une interface style "Cyber-Hacking" permettant de convertir des scripts Python (`.py`) en exécutables Windows (`.exe`) de manière simple et intuitive.
 
-
+---
 
 ## ✨ Fonctionnalités
 
@@ -23,7 +23,7 @@
 
 ## 🚀 Installation
 
-1. Clonez le dépôt :
+1. **Clonez le dépôt** :
    ```bash
    git clone [https://github.com/lekdev-pl/N-on-Compiler-V11.git](https://github.com/lekdev-pl/N-on-Compiler-V11.git)
-   cd NEON_COMPILER
+   cd N-on-Compiler-V11
