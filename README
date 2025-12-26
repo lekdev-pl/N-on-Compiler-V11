@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.13-cyan.svg)
 ![UI](https://img.shields.io/badge/UI-CustomTkinter-green.svg)
 
-**NEON_OS Builder** est un outil professionnel doté d'une interface style "Cyber-Hacking" permettant de convertir des scripts Python (`.py`) en exécutables Windows (`.exe`) de manière simple et intuitive.
+**NEON_OS Builder** est un outil professionnel doté d'une interface de style "Cyber-Hacking" permettant de convertir des scripts Python (`.py`) en exécutables Windows (`.exe`) de manière simple et intuitive.
 
 ---
 
@@ -25,5 +25,5 @@
 
 1. **Clonez le dépôt** :
    ```bash
-   git clone [https://github.com/lekdev-pl/N-on-Compiler-V11.git](https://github.com/lekdev-pl/N-on-Compiler-V11.git)
+   git clone https://github.com/lekdev-pl/N-on-Compiler-V11.git
    cd N-on-Compiler-V11
