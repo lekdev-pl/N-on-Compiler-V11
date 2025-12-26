@@ -1,0 +1,29 @@
+# ⚡ NEON_OS // NEON_COMPILER_V11
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.13-cyan.svg)
+![UI](https://img.shields.io/badge/UI-CustomTkinter-green.svg)
+
+**NEON_OS Builder** est un outil professionnel doté d'une interface style "Cyber-Hacking" permettant de convertir des scripts Python (`.py`) en exécutables Windows (`.exe`) de manière simple et intuitive.
+
+
+
+## ✨ Fonctionnalités
+
+* **Interface Intuitive** : Design moderne avec des couleurs néon et des animations de terminal.
+* **Personnalisation Totale** : 
+    * Choix du nom de l'exécutable de sortie.
+    * Intégration d'icônes personnalisées (`.ico`).
+    * Sélection du dossier de destination.
+* **Options Avancées** : 
+    * `--onefile` : Compresse tout dans un seul fichier.
+    * `--windowed` : Supprime l'ouverture de la console noire au lancement de l'EXE.
+* **Diagnostic en temps réel** : Terminal intégré affichant les logs de compilation de PyInstaller.
+* **Barre de progression** : Visualisation de l'avancement du build.
+
+## 🚀 Installation
+
+1. Clonez le dépôt :
+   ```bash
+   git clone [https://github.com/lekdev-pl/N-on-Compiler-V11.git](https://github.com/lekdev-pl/N-on-Compiler-V11.git)
+   cd NEON_COMPILER
